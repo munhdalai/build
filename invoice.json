@@ -1,0 +1,47 @@
+{
+    "branch_id": 1,
+    "date_start": "2023-06-25 00:00:00",
+    "date_end": "2014-06-25 00:00:00",
+    "order_lines": [
+        {
+            "invoice_id": 123,
+            "items": [
+                {
+                    "productId": 799,
+                    "qty": 2,
+                    "price": 5000
+                },
+                {
+                    "productId": 798,
+                    "qty": 20,
+                    "price": 1000
+                },
+                {
+                    "productId": 797,
+                    "qty": 6,
+                    "price": 5600
+                }
+            ]
+        },
+        {
+            "invoice_id": 111,
+            "items": [
+                {
+                    "productId": 799,
+                    "qty": 2,
+                    "price": 5000
+                },
+                {
+                    "productId": 798,
+                    "qty": 20,
+                    "price": 1000
+                },
+                {
+                    "productId": 797,
+                    "qty": 6,
+                    "price": 5600
+                }
+            ]
+        }
+    ]
+}
